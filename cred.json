@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "indigo-muse-410215",
+  "private_key_id": "96d580d7d2e07e06af27f0a8a4828d0ecda8ee80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaC97zSSDx1hy9\nF1WAKRq+emuGKfrOXO2VSQc4ZJMJuZv6DaSJ7KkfF4GEpbFZstglSA1KzC4/vW5X\nmZw+utn2j1Iisalg6kr47pqfZOHM9oIcXPsDoDioXIxvoJW4DM6qArvrwvRvCTSI\no4RBFR/fT/A0w/X2oZuR8yyWKw6o/W3oSkh9+ls9S+Lt1Rw2HYlVVX0mEggwlQ0c\nkL2FXyq9BKHLfNw3/OO4qWqBYoiTV6dY8Y6pNKqkJocZyQfVcN3FcbDEywmKi/eB\nlHK232OR8mabLLh3jDIs9lGorAvlAd2FKb8VtxHIH31qJ33pyy6IjExEf+PPALnX\n+nnQ2snBAgMBAAECggEAMo2AvfAauqJcTgWRTnyuxSGhlabDIuPGJ/6OOwhuZHuf\n30CI5aZfnc919pT1jY0ud5WcnxZAezRsOJ01dDSXgN1pw+7vudlJf0W2Qma13zBq\nZGpzCa6TyVSN1bgqSfsR+yLojqcs1h98OPcIWN9Y1U0DdB1241gHmK7ny+QXbIcz\n1YR6rXbPMdlcD8t+HlOM0+X/WVlBtwX7AeFSKB6WTBfvAuZmt1qe65xtrQ2eSAZ4\nAjluUOsj6mHD92K72P1WFFyvmHVieCD4uZZRBOqizqyyieMvlgNl9/e2W3QO+gko\nsNscNGlqOeDuslndeO9sDdVJPNBbHW+8K6pa9+dbTQKBgQDVRCB12p051wN8ie6C\nXS+ggKs5n162o4AebiMZ9hjNx/KtlCssI4tE0woQczr3e5BkTQI3Gs7hwa/5P0PJ\n4X8PjX7cBqKgqCV1F578nHVTdSUBsUCwiHTZ409/mOdGcs8bycCaOxqf09Cc/jLa\nK8W9Pj7UIenmiJzWDgeL0H4KBwKBgQC46fWdDRHGp4RhePBZw2N/lw6FSWRsjk+4\nrbvmv1e2fwlGfgfPUQbPlvyGnWGOAJgW6d/7B36LjbqNaVBLUslJXBbTliPN1yKF\nSa1YWsQ+fsVPOCcHboCOfXUuReAMTdtCpHnOvZ6jvdNjFCPHKxQnp5VKsBhFB4IF\nbyVU77S79wKBgEHbbeK3BcJswWjd90dOm3yG/1kl+8uOpeu/uxszQemaCzjK/qH8\nv+8a9Iqr6tOt1qMCnOKDZsuUUlE31ikrd19IJJqxedr+0cJc7v23GwwQqsLhB8b7\n/ImkhlIy14iLv6UnIlD+W3Rrpoo0fWOeDMwpwqEjb+V+3l/DqVTlp2ZVAoGBAIXY\nKwUzqZM+O88F6AtBJ2r6HvORLRR6afAGKQUbqNSa3U7d+K8yOhjWdBDIKA3OFkg3\nnv0n7ov62XZ0LT9oO/RSqN8cROxAdWc+7i8O/A80WYM+5Nk3PexlmQUWZNbjH/r7\n7IMds49X3oNP15nZb6xIXAKEtfx5M77VNZNmMk7/AoGAI0HqkneM9whxiNLRHSZn\nAgVBfpV2Dr4CQt0Gbx9bygfO3gP6voGMLsZKMucioCmvfq8c2XfKgZEGuMyw4F0W\n9RfjVkq7MzwLlKGySuiXBJs2wdfE4ru/eznZuPbyKBGdMjjBkG6P4oN/Ut2rUaP6\n+aL9Dtyua9sIKKmffnib1zQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ticket-google@indigo-muse-410215.iam.gserviceaccount.com",
+  "client_id": "112158507504352694575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ticket-google%40indigo-muse-410215.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
